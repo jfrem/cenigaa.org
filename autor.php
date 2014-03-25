@@ -1,0 +1,1 @@
+<?php the_author_meta('twitter') ?>
